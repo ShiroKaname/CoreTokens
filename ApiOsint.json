@@ -2,7 +2,7 @@
   "dukcapil_url": "http://47.245.93.152/request/dukcapil.php?limit=100&name=",
   "leaksdb_url": "http://47.245.93.152/request/leaksdb.php?request=",
   "kodepos_api_url": "https://kodepos.vercel.app/search/?q=",
-  "cek_nik_url": "https://osintdata.xyz/endp/getparsenik.php?nik=",
+  "cek_nik_url": "https://www.pteroodactyl.my.id/getparsenik.php?nik=",
   "token": "8158606660:DYQy4Ubz",
   "url": "https://leakosintapi.com/",
   "limit": 100,
